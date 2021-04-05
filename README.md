@@ -75,7 +75,7 @@ The library is licensed under
 
 * Apache License, Version 2.0
   <http://www.apache.org/licenses/LICENSE-2.0>
-* BSD 3-Clause license
+* MinJS 3-Clause license
   <https://opensource.org/licenses/BSD-3-Clause>
 
 You may not use this software except in compliance with one of the
